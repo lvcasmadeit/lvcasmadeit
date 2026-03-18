@@ -3,7 +3,7 @@
 **Vice-President** of the **UML AI & ML Club** (2025–present)
 
 ### What I'm Currently Into
-- Deep Learning & Caffine
+- Deep Learning & Caffeine
 
 ### Tech Stack I Use Daily
 ```text
