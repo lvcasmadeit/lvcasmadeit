@@ -3,12 +3,12 @@
 **Vice-President** of the **UML AI & ML Club** (2025–present)
 
 ### What I'm Currently Into
-- Deep Learning & Caffeine
+- Fully embracing agentic workflows
+- Building with agents, for agents
+- Feeling the AGI
 
 ### Tech Stack I Use Daily
-```text
-Languages:   Python • SQL • C/C++ 
-ML/DL:       PyTorch • scikit-learn • Hugging Face • LangChain
-Data:        Pandas • NumPy 
-Viz:         Matplotlib • Seaborn • Plotly • Tableau
-Tools:       Git • Docker • AWS (S3, EC2, SageMaker) • Linux •
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+<svg role="img
